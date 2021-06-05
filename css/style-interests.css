@@ -1,0 +1,54 @@
+body {
+	background-color: #00306d;
+	padding: 0px;
+	margin: 0px;
+	color: #00306d;
+}
+#header {
+	padding: 0px;
+	margin-bottom: 5px;
+	height: 35px;
+	background-color: snow;
+}
+#banner {
+	background-color: snow;
+	margin: 0px;
+	padding: 0px;
+}
+#left-nav {
+	float: left;
+	width: 100px;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 5px;
+	background-color: snow;
+}
+#main {
+	/* border: 1px solid black; */
+	width: 75%;
+	padding: 10px;
+	margin: 0px;
+	overflow: auto;
+	background-color: snow;
+}
+#footer {
+	/* border: 1px solid black; */
+	margin: 5px;
+	text-align: center;
+	background-color: snow;
+	text-decoration: none;
+}
+a:hover {
+	background-color: lightgray;
+}
+a:link {
+	text-decoration: none;
+	color: #00306d;
+}
+a:visited {
+	color: #00306d;
+}
+a:active {
+	color: #00306d;
+}

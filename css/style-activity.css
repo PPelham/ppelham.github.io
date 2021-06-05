@@ -1,0 +1,54 @@
+body {
+	background-color: mediumaquamarine;
+	padding: 0px;
+	margin: 0px;
+	color: green;
+}
+#header {
+	padding: 0px;
+	margin-bottom: 5px;
+	height: 35px;
+	background-color: lightblue;
+}
+#banner {
+	background-color: lightblue;
+	margin: 0px;
+	padding: 0px;
+}
+#left-nav {
+	float: left;
+	width: 200px;
+	border: 1px solid black;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 5px;
+	background-color: lightblue;
+}
+#main {
+	/* border: 1px solid black; */
+	width: 75%;
+	padding: 10px;
+	margin: 0px;
+	overflow: auto;
+	background-color: lightblue;
+}
+#footer {
+	/* border: 1px solid black; */
+	margin: 5px;
+	text-align: center;
+	background-color: lightblue;
+	text-decoration: none;
+}
+a:hover {
+	background-color: white;
+}
+a:link {
+	text-decoration: none;
+	color: green;
+}
+a:visited {
+	color: green;
+}
+a:active {
+	color: green;
+}

@@ -1,0 +1,614 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Pelham Pigeon's Activity Page</title>
+    <link type="text/css" rel="stylesheet" href="css/style-activity.css">
+  </head>
+  <body>
+    <div id="header"> <a href="index.html"><img src="images/pelham_logo.png" alt="logo"
+
+          height="25px"></a> <a href="index.html">MAIN</a> | <a href="interests.html">INTERESTS</a>
+      | <a href="activities.html">ACTIVITIES</a> | <a href="work.html">WORK</a>
+      | <a href="about.html">ABOUT</a> </div>
+    <div id="banner"> <img src="images/gwb-banner.png" alt="banner" width="100%">
+    </div>
+    <div id="left-nav">
+      <p><a href=""></a></p>
+      <p><a href=""></a></p>
+      <a href="#introduction">Introduction</a> <a href="#man-hudson-river">Manhattan
+        &amp; Hudson River</a> <a href="#new-jersey">New Jersey</a> <a href="#van-cort">Van
+        Cortlandt Park, Bronx</a> <a href="#s-county-trail">South Country
+        Trailway, Westchester County</a> <a href="#randalls">Randalls &amp;
+        Wards Island, Manhattan</a> <a href="#tri-boro">Tri-boro Bridge, Queens</a>
+      <a href="#rockland">Rockland County, New York</a> <a href="#brooklyn">Brooklyn
+        Waterfront</a> <a href="#battery">Battery Park, Manhattan</a> <a href="#les">Lower
+        East Side, Manhattan</a> </div>
+    <div id="main">
+      <h1 style="text-align: center;"><a name="topofpage"></a>Welcome to my
+        Activities Page!</h1>
+      <h3><a name="introduction"></a>Introduction</h3>
+      <p>Welcome to the photos page where I list a small collection of photos
+        from my bicycle rides. Riding helps to keep me grounded and is a form of
+        meditation, while riding through many neighborhoods around the city. I
+        own two bicycles, one which I built from spare parts and the other is an
+        e-bike. I get plenty of use from both. Before the pandemic I would
+        average below 20 miles. But after, I average closer to 30 miles. The
+        most I ever rode was 47 miles and that was to Rockland County and back
+        from the Bronx.</p>
+      <p>On one December day, I was visiting a friend and on the news was a
+        report about people in Wuhan, China getting sick. There were no alarm
+        bells and I went about my routines and didn't think anything of it.
+        January then February rolled around and the news got more urgent with
+        regards to the virus spreading to other parts of the world and with
+        Italy in the middle of a crisis. Nothing was being done here at home but
+        I was beginning to get worried. At the end of February and the beginning
+        of March, it was imminent that all that was going to change. Sure
+        enough, by the middle of March, as the pandemic was declared, the
+        centers where I taught would be closing. I was suddenly out of work. As
+        the days went on, it got more bleek where even shopping for supplies was
+        becoming an issue. Even seeing stores all around being closed and
+        worried they would close for good. More importantly was the fear of
+        getting sick. Later in the year, my mother would pass away but from a
+        different ailment. The anxiety and uncertainty just kept piling up. And,
+        I still wasn't making any money.<br>
+        <br>
+        I needed something to help break the cycle and to overcome my anxiety
+        so, I setup Sundays aside to go bicycle riding. Started with short trips
+        at first but, I pushed myself to go further each time. I must first
+        mention that I've bicycled alot in the past. In fact use to ride 14
+        miles per day to/from work while crossing the Manhattan Bridge but I
+        haven't done that for awhile. Riding on Sundays helped to build up my
+        endurance and more so as I got to explore more neighborhoods over
+        different routes. On some Sundays I would go to Riverdale, Van Cortlandt
+        Park, South Bronx, Soundview, Orchard Beach and City Island in the
+        Bronx. Other days I would go up to Mount Vernon and New Rochelle. Trips
+        became longer and longer visiting Yonkers, Manhattan, Queens,
+        Westchester County and as far as Rockland County and New Jersey, wearing
+        my mask the whole time.<br>
+        <br>
+        I'm still riding consistently on Sundays, not missing a single week with
+        the exception when it snowed heavly one Sunday. Just recently, I rode
+        without a mask. In fact, discovered that I could go even further as if
+        wearing the mask was a training tool. The best parts of the rides are
+        visiting the different neighborhoods, breathing fresh air, and getting a
+        good nights sleep at night. The photos I've posted here are just a few.
+        If you want to hear more about my rides or would like to get into riding
+        yourself and have questions, feel free to reach out to me.</p>
+      <h3><a name="man-hudson-river"></a>Manhattan &amp; Hudson River</h3>
+      <p> </p>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Henry Hudson Parkway, Bronx-Manhattan</b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20200531-photo-1.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20200531-photo-1.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p>Going to New Jersey from Riverdale, over the Henry Hudson Parkway to
+          Manhattan in May 2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Fort Tryon Park, Manhattan</b> <span style="float: right;">NEXT | <a
+
+            href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20200531-photo-2.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20200531-photo-2.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p>Coming back from New Jersey going through Fort Tryon Park, Manhattan
+          in May 2020. This photo is looking North over the Bronx.</p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Fort Tryon Park, Manhattan </b> <span style="float: right;">NEXT |
+          <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20200531-photo-3.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20200531-photo-3.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Another photo from Fort Tryon Park, Manhattan looking over the
+          Hudson River to New Jersey </p>
+      </div>
+      <p></p>
+      <h3><a name="new-jersey"></a>New Jersey</h3>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>George Washington Bridge </b> <span style="float: right;">NEXT | <a
+
+            href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20200809-photo-4.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20200809-photo-4.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> George Washington Bridge looking up at one of the towers in August
+          2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>George Washington Bridge, New Jersey </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20200809-photo-5.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20200809-photo-5.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Look out point on the New Jersey side looking towards Manhattan in
+          August 2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Hudson River, Manhattan </b> <span style="float: right;">NEXT | <a
+
+            href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20201108-photo-8.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20201108-photo-8.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Overlooking the Hudson River from the Manhattan side with the George
+          Washington Bridge in the background in November 2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Hudson River, Manhattan </b> <span style="float: right;">NEXT | <a
+
+            href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20201108-photo-9.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20201108-photo-9.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Under the George Washington Bridge with a light house in view in
+          November 2020 </p>
+      </div>
+      <h3><a name="van-cort"></a>Van Cortlandt Park, Bronx</h3>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Van Cortlandt Park, Bronx </b> <span style="float: right;">NEXT | <a
+
+            href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20200628-photo-6.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20200628-photo-6.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Van Cortlandt Park looking east, over the grass where soccer and
+          other sports are played regularly in June 2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Van Cortlandt Park, Bronx </b> <span style="float: right;">NEXT | <a
+
+            href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20200628-photo-7.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20200628-photo-7.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Van Cortlandt Park with some rain before the sun came out again in
+          June 2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Van Cortlandt Park, Bronx </b> <span style="float: right;">NEXT | <a
+
+            href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20201115-photo-26.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20201115-photo-26.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> In Van Cortlandt Park where the South County Trailway (defunct
+          Putnam Railway Line) begins. This trailway takes you all through New
+          York State. November 2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Van Cortlandt Park, Bronx </b> <span style="float: right;">NEXT | <a
+
+            href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20201115-photo-27.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20201115-photo-27.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> At the beginning of the South County Trailway (defunct Putnam
+          Railway Line) with one of my bicycles in November 2020 </p>
+      </div>
+      <h3><a name="s-county-trail"></a>South Country Trailway, Westchester
+        County</h3>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>South Country Trailway, Westchester County </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20200607-photo-28.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20200607-photo-28.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Somewhere on the South Country Trailway in June 2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>South County Trailway, Westchester County </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20200628-photo-29.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20200628-photo-29.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Doing construction to pave the path leading into Van Cortlandt Park
+          in June 2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>North Country Trailway, Westchester County </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20201213-photo-30.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20201213-photo-30.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Where the North County Trailway begins in Elmsford in December 2020
+        </p>
+      </div>
+      <h3><a name="randalls"></a>Randalls &amp; Wards Island, Manhattan</h3>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Randalls and Wards Island, Mahattan </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20201108-photo-10.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20201108-photo-10.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Overlooking the Manhattan skyline with Wards Island Bridge crossing
+          the East River in November 2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Randalls and Wards Island, Manhattan </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20201108-photo-11.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20201108-photo-11.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Park overlooking the East River in November 2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Randalls and Wards Island, Manhattan </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20201122-photo-12.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20201122-photo-12.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Entering Randalls and Wards Island from the Bronx side from 132nd
+          Street under the Hell Gate Rail Bridge in November 2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Randalls and Wards Island, Manhattan </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20201122-photo-13.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20201122-photo-13.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Plackard on the Bronx side under the Hell Gate Railway Bridge in
+          November 2020 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Randalls and Wards Island, Manhattan </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20201122-photo-14.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20201122-photo-14.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Looking south with Wards Island Foot Bridge and the Manhattan
+          skyline in the distance in November 2020 </p>
+      </div>
+      <h3><a name="tri-boro"></a>Tri-boro Bridge, Queens</h3>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Robert F. Kennedy Bridge (formally the Triboro Bridge), Queens </b>
+        <span style="float: right;">NEXT | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20210110-photo-15.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20210110-photo-15.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Looking north on the Bridge to the Bronx and Queens side in January
+          2021 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Robert F. Kennedy Bridge (formally the Triboro Bridge), Queens </b>
+        <span style="float: right;">NEXT | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20210110-photo-16.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20210110-photo-16.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> In Astoria Park looking under the Triboro Bridge in January 2021 </p>
+      </div>
+      <h3><a name="rockland"></a>Rockland County, New York</h3>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Governor Mario M. Cuomo Bridge (formally the Tappan Zee Bridge),
+          Rockland County </b> <span style="float: right;">NEXT | <a href="#topofpage"
+
+            style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20210321-photo-17.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20210321-photo-17.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Looking at one of the towers on the Westchester side in March 2021 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Governor Mario M. Cuomo Bridge (formally the Tappan Zee Bridge),
+          Rockland County </b> <span style="float: right;">NEXT | <a href="#topofpage"
+
+            style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20210321-photo-18.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20210321-photo-18.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> On the Rockland side looking back at the bridge in March 2021 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Governor Mario M. Cuomo Bridge (formally the Tappan Zee Bridge),
+          Rockland County </b> <span style="float: right;">NEXT | <a href="#topofpage"
+
+            style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20210321-photo-19.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20210321-photo-19.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Back on the Weschester County side. At the time I visited, the
+          bridge is a tourist attraction. People parked their cars and walk the
+          6 miles round trip over the bridge </p>
+      </div>
+      <h3><a name="brooklyn"></a>Brooklyn Waterfront</h3>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Brooklyn Bridge Park, Brooklyn </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20210418-photo-20.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20210418-photo-20.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Overlooking the East River at the Manhattan skyline and the Brooklyn
+          Bridge in the background in April 2021 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Brooklyn Bridge Park, Brooklyn </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20210418-photo-21.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20210418-photo-21.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Overlooking the East River at Wall Street in April 2021 </p>
+      </div>
+      <h3><a name="battery"></a>Battery Park, Manhattan</h3>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Battery Park, Manhattan </b> <span style="float: right;">NEXT | <a
+
+            href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20210425-photo-22.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20210425-photo-22.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Overlooking the Hudson River over to the New Jersey side in April
+          2021 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Battery Park, Manhattan </b> <span style="float: right;">NEXT | <a
+
+            href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20210425-photo-23.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20210425-photo-23.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> In Battery Park looking toward the Wall Street area in April 2021 </p>
+      </div>
+      <h3><a name="les"></a>Lower East Side, Manhattan</h3>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Lower East Side of Manhattan </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20210425-photo-24.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20210425-photo-24.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Overlooking the East River with the Manhattan and Brooklyn Bridges
+          in sight in April 2021 </p>
+      </div>
+      <div id="photo-" class="photo-card" style="border: 1px solid gray; border-radius: 15px; background-color: tan; padding: 20px; overflow: auto; margin: 5px;">
+        <b>Lower East Side of Manhattan </b> <span style="float: right;">NEXT
+          | <a href="#topofpage" style="text-decoration: none; a:hover {color: green;}">TOP</a></span><br>
+        <a alt="Click on image to enlarge" href="photos/20210425-photo-25.jpg"><img
+
+            style="float: left; margin: 10px;" src="photos/20210425-photo-25.jpg"
+
+            height="228" width="405"></a>
+        <p> <b>Stats:</b> </p>
+        <p> Route: N/A<br>
+          Miles: N/A<br>
+          Time: N/A<br>
+        </p>
+        <p><b>Description:</b></p>
+        <p> Overlooking the East River with the Manhattan and Brooklyn Bridges
+          in sight in April 2021 </p>
+      </div>
+    </div>
+    <div id="footer"> <a href="#topofpage">TOP</a> | <a href="emailto:rlucenti74@hotmail.com">EMAIL</a></div>
+  </body>
+</html>

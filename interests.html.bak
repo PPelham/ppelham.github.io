@@ -1,0 +1,93 @@
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Pelham Pigeon's Interests Page</title>
+    <link type="text/css" rel="stylesheet" href="css/style-interests.css">
+  </head>
+  <body>
+    <div id="header"> <a href="index.html"><img src="images/pelham_logo_navy.png"
+          alt="logo" height="25px"></a> <a href="index.html">MAIN</a> | <a href="interests.html">INTERESTS</a>
+      | <a href="activities.html">ACTIVITIES</a> | <a href="work.html">WORK</a>
+      | <a href="about.html">ABOUT</a> </div>
+    <div id="banner"> <img src="images/hello-world-electronics.png" alt="banner"
+        width="100%"> </div>
+    <div id="left-nav">
+      <p><a href="index.html">MAIN</a></p>
+      <p><a href="interests.html">INTERESTS</a></p>
+      <p><a href="activities.html">ACTIVITIES</a></p>
+      <p><a href="work.html">WORK</a></p>
+      <p><a href="about.html">ABOUT</a></p>
+    </div>
+    <div id="main">
+      <h1 style="text-align: center;">Welcome to my Interests Page!</h1>
+      <h2>Introduction</h2>
+      <p><br>
+      </p>
+      <h2>Queensborough Community College Information and Links</h2>
+      <p><strong>Queensborough Community College Continuing Education &amp;
+          Workforce Development</strong><br>
+        <a href="https://www.qcc.cuny.edu/contEd/" title="https://www.qcc.cuny.edu/contEd/">https://www.qcc.cuny.edu/contEd/</a><br>
+        (718) 631-6343 for assistance<br>
+        <br>
+        <strong>Programs enrolled</strong></p>
+      <ul>
+        <li>AWS Developer Associate Certification + AWS Big Data + Machine
+          Learning Specializations</li>
+        <li>AWS Certified SysOps Administrator Associate Certification</li>
+      </ul>
+      <p><em>Both courses also reviews</em></p>
+      <ul>
+        <li>AWS Cloud Computing Fundamentals Certification</li>
+        <li>AWS Solutions Architect Associate Certification</li>
+      </ul>
+      <p><strong>Professors</strong><br>
+        Michael Lawrence<br>
+        Brian Banho</p>
+      <h3>Class links</h3>
+      <p>Scheduling, class details, receipts and transcripts (visit "My Account"
+        page)<br>
+        <a href="https://www.campusce.net/qcc/account/signin.aspx" title="https://www.campusce.net/qcc/account/signin.aspx">https://www.campusce.net/qcc/account/signin.aspx</a><br>
+        <br>
+        CANVAS<br>
+        <a href="https://awsacademy.instructure.com" title="https://awsacademy.instructure.com">https://awsacademy.instructure.com</a><br>
+        QCC<br>
+        <a href="https://campusce.net/qcc/account/signin.aspx" title="https://campusce.net/qcc/account/signin.aspx">https://campusce.net/qcc/account/signin.aspx</a><br>
+        Basecamp<br>
+        <a href="https://basecamp.com" title="https://basecamp.com">https://basecamp.com</a></p>
+      <h2>AWS Free Resources</h2>
+      <p>AWS Academy (<a href="https://aws.amazon.com/training/awsacademy" title="https://aws.amazon.com/training/awsacademy">https://aws.amazon.com/training/awsacademy</a>)<br>
+        AWS Educate (<a href="https://aws.amazon.com/education/awseducate" title="https://aws.amazon.com/education/awseducate">https://aws.amazon.com/education/awseducate</a>)</p>
+      <p><a href="file:///C:/Incoming/www2/images/avail-aws-certs-chart.png"><img
+            src="file:///C:/Incoming/www2/images/avail-aws-certs-chart.png" alt="aws certifications chart"
+            style="width: 375px; height: 214px;"></a><br>
+        (click on image to enlarge)</p>
+      <h2>Recommended links (not required)</h2>
+      <strong>Intermediate Work</strong><br>
+      Make a website<br>
+      <div style="margin-left: 20px;"> <a href="https://codeacademy.com/learn/make-a-website"
+          title="https://codeacademy.com/learn/make-a-website">https://codeacademy.com/learn/make-a-website</a></div>
+      Angular Overview<br>
+      <div style="margin-left: 20px;"> <a href="https://codelab.fun" title="https://codelab.fun">https://codelab.fun</a></div>
+      AWS Cloud Practitioner Essentials 2nd Edition<br>
+      <div style="margin-left: 20px;"> <a href="https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials"
+          title="https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials">https://aws.amazon.com/training/course-descriptions/cloud-practitioner-essentials</a><br>
+      </div>
+      <br>
+      <strong>Advanced Work</strong><br>
+      <em> Must establish an AWS account and in the Free Tier of the account
+        complete the following:</em><br>
+      Build a serverless Web Application<br>
+      <div style="margin-left: 20px;"><a href="%20https://aws.amazon.com/serverless/build-a-web-app/"
+          title=" https://aws.amazon.com/serverless/build-a-web-app/">
+          https://aws.amazon.com/serverless/build-a-web-app/</a></div>
+      Complete the following tutorial in AWS CodeStar using Ruby on Rails and
+      Elastic Beanstalk<br>
+      <div style="margin-left: 20px;"><a href="%20https://guides.rubyonrails.org/v5.0/getting-started.html"
+          title=" https://guides.rubyonrails.org/v5.0/getting-started.html">
+          https://guides.rubyonrails.org/v5.0/getting-started.html</a></div>
+      <br>
+      For more information, see <a href="file:///C:/Incoming/www2/images/qcc-aws-course-flyer.jpg">course
+        flyer for Frequently Asked Questions</a>&nbsp;</div>
+    <div id="footer"> <a href="#topofpage">TOP</a> | <a href="emailto:rlucenti74@hotmail.com">EMAIL</a></div>
+  </body>
+</html>
