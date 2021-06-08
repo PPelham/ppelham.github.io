@@ -23,13 +23,37 @@
     </div>
     <div id="main">
       <h1 style="text-align: center;">Welcome to my About Me Page!</h1>
-      <img src="file:///C:/Incoming/www2/images/photome.png" alt="photo taken on trailway"
-
-        style="width: 254px; height: 324px; float: left; margin: 10px;">
+      <img src="images/photome.png" alt="photo taken on trailway" style="width: 254px; height: 324px; float: left; margin: 10px;">
       <h2>Introduction</h2>
-      </div>
-    
-      <div id="footer"> <a href="#topofpage">TOP</a> | <a href="emailto:rlucenti74@hotmail.com">EMAIL</a></div>
-   
+      <h3>
+        Education
+      </h3>
+      <p>
+        My technical education started back in High School with
+      emphasis in Mathematics, Computer Programming, and Electronics and carried
+      over into college in the field of Computer Sciences where I received my
+      B.A. degree, and then beyond that with most of my growth being self taught
+      while keeping up with new technologies. I've always been into tech as it
+      allows me to express myself.
+      </p>
+      <h3>
+        Hobbies &amp; Interests
+      </h3>
+      <p>
+        In my spare time I enjoy working on my computer, tinkering with
+      electronics, and programming. I also enjoy working on puzzles including
+      killer sudoku puzzles which are my favorite, and playing Microsoft Flight
+      Simulator. I also maintain and repair my bicycles and ride as my only form
+      of transportation.
+      </p>
+      <h3>
+        Aspirations
+      </h3>
+      <p>
+        I hope one day to fill an operations adminstrator role which allows me to
+      flex my analytical and troubleshooting skills. Will write more about this
+      in the work section. 
+      </p></div>
+    <div id="footer"> <a href="#topofpage">TOP</a> | <a href="emailto:rlucenti74@hotmail.com">EMAIL</a></div>
   </body>
 </html>

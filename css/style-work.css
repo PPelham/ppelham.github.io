@@ -1,17 +1,17 @@
 body {
-	background-color: maroon;
+	background-color: #f3f2ef;
 	padding: 0px;
 	margin: 0px;
-	color: maroon;
+	color: black;
 }
 #header {
 	padding: 0px;
 	margin-bottom: 5px;
 	height: 35px;
-	background-color: tan;
+	background-color: white;
 }
 #banner {
-	background-color: tan;
+	background-color: white;
 	margin: 0px;
 	padding: 0px;
 }
@@ -22,23 +22,21 @@ body {
 	border-radius: 10px;
 	padding: 10px;
 	margin: 5px;
-	background-color: tan;
+	background-color: white;
 }
 #main {
 	/* border: 1px solid black; */
 	width: 75%;
 	padding: 10px;
-	padding-left: 25px;
-	padding-right: 25px;
 	margin: 0px;
 	overflow: auto;
-	background-color: tan;
+	background-color: white;
 }
 #footer {
 	/* border: 1px solid black; */
 	margin: 5px;
 	text-align: center;
-	background-color: tan;
+	background-color: white;
 	text-decoration: none;
 }
 a:hover {
@@ -46,11 +44,11 @@ a:hover {
 }
 a:link {
 	text-decoration: none;
-	color: maroon;
+	color: black;
 }
 a:visited {
-	color: maroon;
+	color: black;
 }
 a:active {
-	color: maroon;
+	color: black;
 }
