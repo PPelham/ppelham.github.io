@@ -9,6 +9,7 @@ body {
 	margin-bottom: 5px;
 	height: 35px;
 	background-color: white;
+	box-shadow: 2px 2px 5px gray;
 }
 #banner {
 	background-color: white;
@@ -23,6 +24,7 @@ body {
 	padding: 10px;
 	margin: 5px;
 	background-color: white;
+	box-shadow: 5px 5px 10px gray;
 }
 #main {
 	/* border: 1px solid black; */
@@ -31,6 +33,7 @@ body {
 	margin: 0px;
 	overflow: auto;
 	background-color: white;
+	box-shadow: 2px 2px 5px gray;
 }
 #footer {
 	/* border: 1px solid black; */
@@ -38,6 +41,7 @@ body {
 	text-align: center;
 	background-color: white;
 	text-decoration: none;
+	box-shadow: 2px 2px 5px gray;
 }
 a:hover {
 	background-color: mistyrose;

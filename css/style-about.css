@@ -9,11 +9,13 @@ body {
 	margin-bottom: 5px;
 	height: 35px;
 	background-color: snow;
+	box-shadow: 5px 5px 10px gray;
 }
 #banner {
 	background-color: snow;
 	margin: 0px;
 	padding: 0px;
+	box-shadow: 5px 5px 10px gray;
 }
 #left-nav {
 	float: left;
@@ -23,6 +25,7 @@ body {
 	padding: 10px;
 	margin: 5px;
 	background-color: snow;
+	box-shadow: 5px 5px 5px gray;
 }
 #main {
 	/* border: 1px solid black; */
@@ -31,6 +34,7 @@ body {
 	margin: 0px;
 	overflow: auto;
 	background-color: snow;
+	box-shadow: 5px 5px 10px gray;
 }
 #footer {
 	/* border: 1px solid black; */
@@ -38,6 +42,7 @@ body {
 	text-align: center;
 	background-color: snow;
 	text-decoration: none;
+	box-shadow: 5px 5px 10px gray;
 }
 a:hover {
 	background-color: lightgray;

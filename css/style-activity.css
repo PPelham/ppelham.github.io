@@ -9,11 +9,13 @@ body {
 	margin-bottom: 5px;
 	height: 35px;
 	background-color: lightblue;
+	box-shadow: 5px 5px 10px gray;
 }
 #banner {
 	background-color: lightblue;
 	margin: 0px;
 	padding: 0px;
+	box-shadow: 5px 5px 10px gray;
 }
 #left-nav {
 	float: left;
@@ -23,6 +25,7 @@ body {
 	padding: 10px;
 	margin: 5px;
 	background-color: lightblue;
+	box-shadow: 3px 3px 7px gray;
 }
 #main {
 	/* border: 1px solid black; */
@@ -31,6 +34,7 @@ body {
 	margin: 0px;
 	overflow: auto;
 	background-color: lightblue;
+	box-shadow: 5px 5px 10px gray;
 }
 #footer {
 	/* border: 1px solid black; */
@@ -38,6 +42,7 @@ body {
 	text-align: center;
 	background-color: lightblue;
 	text-decoration: none;
+	box-shadow: 5px 5px 10px gray;
 }
 a:hover {
 	background-color: white;
@@ -51,4 +56,7 @@ a:visited {
 }
 a:active {
 	color: green;
+}
+.photocard {
+	box-shadow: 5px 5px 10px gray;
 }
